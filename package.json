@@ -1,0 +1,14 @@
+{
+  "name": "all-contributors-image",
+  "version": "0.1.0",
+  "description": "Github action to generate an image of the icons of all users in all-contributors list",
+  "type": "module",
+  "main": "index.js",
+  "author": "p5.js contributors & The Processing Foundation",
+  "license": "MIT",
+  "dependencies": {
+    "@actions/core": "^1.11.1",
+    "@actions/github": "^6.0.1",
+    "canvas": "^3.2.3"
+  }
+}
